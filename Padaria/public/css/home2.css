@@ -1,0 +1,50 @@
+*{padding: 0px; margin:0px;}
+
+div.topo{
+  text-align: center;
+}
+div.caixa1{
+  border:0px solid #000;
+  width: 220px;
+  height: 170px;
+  border-radius: 7px;
+  position: relative;
+  margin-left: 50px;
+  float: left;
+  margin-top: 10px;
+}
+div.caixadentro{
+  border:0px solid #000;
+  width: 220px;
+  height: 50px;
+  border-radius: 0px;
+  position: relative;
+  margin-top: 55px;
+  margin-left: -15px;
+  background: rgb(245,245,245);
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+}
+div.azul{
+    background: #dddddd;
+    margin-left: 15px;
+    width: 300px;
+    border-radius: 10%;
+}
+div.verde{
+  background: rgb(91,184,92);
+}
+div.laranja{
+    background: rgb(240,173,78);
+    margin-left: 15px;
+    width: 300px;
+}
+div.vermelho{
+  background: rgb(217,83,79);
+}
+img{
+  height: 120px;
+  width: 120px;
+  text-align: center;
+}
